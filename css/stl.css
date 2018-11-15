@@ -1,0 +1,80 @@
+canvas {
+
+	z-index: 1;
+	margin-top: 10%;
+
+}
+
+
+
+#Player1Score {
+
+	color: #DA0000;
+	font-family: Georgia;
+	font-size: 500%;
+	position: absolute;
+	top: 27%;
+	left: 35%;
+	z-index: 2;
+
+}
+
+
+
+#Player2Score {
+
+	color: #004CB3;
+	font-family: Georgia;
+	font-size: 500%;
+	position: absolute;
+	top: 27%;
+	left: 63%;
+	z-index: 2;
+
+}
+
+
+
+#PlayerTeam {
+
+	color: #fff;
+	font-family: Georgia;
+	font-size: 200%;
+	position: absolute;
+	top: 25%;
+	left: 50%;
+	transform: translateX(-50%);
+	z-index: 2;
+
+}
+
+
+
+#WhoseTurn {
+
+	color: #fff;
+	font-family: Georgia;
+	font-size: 200%;
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	transform: translateX(-50%);
+	z-index: 2;
+
+}
+
+
+
+#Controls {
+
+	color: #fff;
+	font-family: Georgia;
+	font-weight: 500;
+	position: absolute;
+	max-width: 1000px;
+	top: 20%;
+	left: 50%;
+	transform: translateX(-50%);
+	z-index: 2;
+
+}
